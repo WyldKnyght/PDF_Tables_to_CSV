@@ -1,0 +1,8 @@
+PyPDF2 
+tabula-py 
+pandas
+jpype1
+treelib
+openpyxl
+rich
+python-dotenv
