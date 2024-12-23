@@ -6,3 +6,4 @@ treelib
 openpyxl
 rich
 python-dotenv
+pdfplumber
